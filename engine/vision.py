@@ -8,3 +8,7 @@ This file will hold systems for getting information like
 - Current Board Positions
 
 '''
+
+import pyautogui
+from PIL import Image
+
